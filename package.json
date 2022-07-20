@@ -1,0 +1,16 @@
+{
+  "name": "checkpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "learnyounode",
+    "verify": "learnyounode verify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "learnyounode": "^4.2.2"
+  }
+}
